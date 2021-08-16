@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\LG\OneDrive\바탕 화면\BAEKJOON C++\FiveFor\FiveFor\소스.cpp(8,16): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+C:\Users\LG\OneDrive\바탕 화면\BAEKJOON C++\FiveFor\FiveFor\소스.cpp(8,17): error C2065: 'n': 선언되지 않은 식별자입니다.
