@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\LG\OneDrive\바탕 화면\BAEKJOON C++\ElevenFor\ElevenFor\소스.cpp(9,10): error C2131: 식이 상수로 계산되지 않았습니다.
+C:\Users\LG\OneDrive\바탕 화면\BAEKJOON C++\ElevenFor\ElevenFor\소스.cpp(9,10): message : 수명을 벗어난 변수 읽기로 인해 오류가 발생했습니다.
+C:\Users\LG\OneDrive\바탕 화면\BAEKJOON C++\ElevenFor\ElevenFor\소스.cpp(9,10): message : 'N' 사용량 참조
+C:\Users\LG\OneDrive\바탕 화면\BAEKJOON C++\ElevenFor\ElevenFor\소스.cpp(11,7): warning C4552: '>>': 식의 결과가 사용되지 않습니다.
+C:\Users\LG\OneDrive\바탕 화면\BAEKJOON C++\ElevenFor\ElevenFor\소스.cpp(17,19): warning C4552: '<<': 식의 결과가 사용되지 않습니다.
